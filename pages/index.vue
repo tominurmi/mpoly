@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div class="wrapper">
-      <svg width="100%" height="100%" viewBox="0 0 601 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
+      <svg id="svgIllustration" width="100%" height="100%" viewBox="0 0 601 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
         <g transform="matrix(1,0,0,1,-949,-801)">
             <g id="illustration" transform="matrix(0.964719,0,0,0.905742,758.61,713.22)">
                 <rect x="197.539" y="97.434" width="621.943" height="552.034" style="fill:#c9e5ce;"/>
@@ -89,7 +89,7 @@
 
   </div>
 
-  <button>Next</button>
+  <button id="buttonGo">Next</button>
 
   </section>
 </template>
