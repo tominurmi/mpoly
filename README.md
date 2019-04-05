@@ -4,6 +4,9 @@ Sandboxing with interactive forms.
 A small part of a larger project.
 
 
+<img src="screenshot.png" width="600px" />
+
+
 ## Build Setup
 
 ``` bash
